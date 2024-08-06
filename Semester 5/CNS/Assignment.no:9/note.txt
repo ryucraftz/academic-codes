@@ -1,0 +1,7 @@
+Files which you will need to execute this task:
+ cliet.c
+ server.c
+ task.json
+ test.txt 
+
+ after cloning this files successfully build the task using terminal and run new terminal for ./client and ./server.
